@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXakUUXIu1KKS9SQ5TyM9hZGAhuovSRMNfQOSdN+uUWOGmZPpS5FcGUfD6OfVlNV4ubJlWEABxyLEU84f+DvFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carsf\\OneDrive\\Рабочий стол\\TelegramBot\\Bot\\Bot\\Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carsf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\carsf\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512",
+    "C:\\Users\\carsf\\.nuget\\packages\\telegram.bot.extensions.loginwidget\\1.2.0\\telegram.bot.extensions.loginwidget.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
